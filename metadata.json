@@ -1,0 +1,6 @@
+{
+  "name": "Shivani Shinde Portfolio",
+  "description": "Interactive QA Engineer Portfolio website for Shivani Shinde featuring a live Gemini AI UAT script builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
